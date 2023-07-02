@@ -33,14 +33,8 @@ To use this app, you need to obtain an API key from The Movie Database (TMDb). F
 
 - The Movie Database (TMDb) API documentation: [TMDb API Documentation](https://developers.themoviedb.org/3/getting-started/introduction)
 
-## License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, please submit a pull request.
 
-## Contact
-
-If you have any questions or need further assistance, feel free to contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
